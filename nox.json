@@ -3,7 +3,7 @@
   "wake_word": "Nox",
   "author": "JuNera",
   "website": "",
-  "model": "./nox.tflite",
+  "model": "https://raw.githubusercontent.com/ramaskasa/nox-wake-word/main/nox.tflite",
   "trained_languages": [
     "en"
   ],
